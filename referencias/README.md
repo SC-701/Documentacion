@@ -41,13 +41,13 @@ Directorio de convenciones, links útiles y recursos externos.
 
 | Sección | Para... |
 |---------|---------|
-| [arquitectura/](../arquitectura/) | Entender la visión general del sistema |
-| [seguridad/](../seguridad/) | Implementar autenticación y JWT |
-| [backend-api/](../backend-api/) | Construir el API en capas |
-| [frontend-web/](../frontend-web/) | Razor Pages y server-side rendering |
-| [frontend-react/](../frontend-react/) | React SPA con Clean Architecture |
-| [base-datos/](../base-datos/) | SQL Server, SPs, Dapper |
-| [despliegue/](../despliegue/) | Azure y GitHub Actions |
+| [arquitectura/](../arquitectura/README.md) | Entender la visión general del sistema |
+| [seguridad/](../seguridad/README.md) | Implementar autenticación y JWT |
+| [backend-api/](../backend-api/README.md) | Construir el API en capas |
+| [frontend-web/](../frontend-web/README.md) | Razor Pages y server-side rendering |
+| [frontend-react/](../frontend-react/README.md) | React SPA con Clean Architecture |
+| [base-datos/](../base-datos/README.md) | SQL Server, SPs, Dapper |
+| [despliegue/](../despliegue/README.md) | Azure y GitHub Actions |
 | [ejemplos/](../ejemplos/) | Código paso-a-paso resuelto |
 
 ---

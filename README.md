@@ -8,9 +8,9 @@ Guías completas para dominar la arquitectura de **3 proyectos integrados**: API
 
 | Nivel | Ruta |
 |:---:|---|
-| 🟢 **Nuevo** | [Arquitectura](arquitectura/) → [Backend API](backend-api/) → [Glosario](referencias/glosario-tecnico.md) |
-| 🟡 **Intermedio** | [Seguridad](seguridad/) → [Base de Datos](base-datos/) → [Ejemplos](ejemplos/) |
-| 🔴 **Avanzado** | [React](frontend-react/) → [Despliegue](despliegue/) → [Checklist](referencias/checklist-semanal.md) |
+| 🟢 **Nuevo** | [Arquitectura](arquitectura/README.md) → [Backend API](backend-api/README.md) → [Glosario](referencias/glosario-tecnico.md) |
+| 🟡 **Intermedio** | [Seguridad](seguridad/README.md) → [Base de Datos](base-datos/README.md) → [Ejemplos](ejemplos/README.md) |
+| 🔴 **Avanzado** | [React](frontend-react/README.md) → [Despliegue](despliegue/README.md) → [Checklist](referencias/checklist-semanal.md) |
 
 ---
 
@@ -18,14 +18,14 @@ Guías completas para dominar la arquitectura de **3 proyectos integrados**: API
 
 | Sección | Descripción | Documentos |
 |---------|------------|-----------|
-| 🏗️ **[Arquitectura](arquitectura/)** | Visión general del sistema | `4 docs` |
-| ⚙️ **[Backend API](backend-api/)** | 6 capas: Controller → DB | `5 docs` |
-| 🌐 **[Frontend Web](frontend-web/)** | Razor Pages + PageModel | `3 docs` |
-| ⚛️ **[React](frontend-react/)** | TypeScript + Clean Arch | `4 docs` |
-| 🔐 **[Seguridad](seguridad/)** | JWT + Hash + Autenticación | `4 docs` |
-| 🗄️ **[Base de Datos](base-datos/)** | SQL Server + Dapper + SPs | `3 docs` |
-| ☁️ **[Despliegue](despliegue/)** | Azure + GitHub Actions | `4 docs` |
-| 💡 **[Ejemplos](ejemplos/)** | Código paso-a-paso | `3 docs` |
+| 🏗️ **[Arquitectura](arquitectura/README.md)** | Visión general del sistema | `4 docs` |
+| ⚙️ **[Backend API](backend-api/README.md)** | 6 capas: Controller → DB | `5 docs` |
+| 🌐 **[Frontend Web](frontend-web/README.md)** | Razor Pages + PageModel | `3 docs` |
+| ⚛️ **[React](frontend-react/README.md)** | TypeScript + Clean Arch | `4 docs` |
+| 🔐 **[Seguridad](seguridad/README.md)** | JWT + Hash + Autenticación | `4 docs` |
+| 🗄️ **[Base de Datos](base-datos/README.md)** | SQL Server + Dapper + SPs | `3 docs` |
+| ☁️ **[Despliegue](despliegue/README.md)** | Azure + GitHub Actions | `4 docs` |
+| 💡 **[Ejemplos](ejemplos/README.md)** | Código paso-a-paso | `3 docs` |
 
 ---
 
@@ -39,9 +39,9 @@ Guías completas para dominar la arquitectura de **3 proyectos integrados**: API
 
 ## 🚀 Por dónde empezar
 
-✦ 🟢 **Eres nuevo** → [Arquitectura](arquitectura/) → [Backend API](backend-api/) → [Glosario](referencias/glosario-tecnico.md)
+✦ 🟢 **Eres nuevo** → [Arquitectura](arquitectura/README.md) → [Backend API](backend-api/README.md) → [Glosario](referencias/glosario-tecnico.md)
 
-✦ 💻 **Necesitas código** → [Ejemplos](ejemplos/) → CRUD paso-a-paso
+✦ 💻 **Necesitas código** → [Ejemplos](ejemplos/README.md) → CRUD paso-a-paso
 
 ✦ ❓ **Tienes una duda** → [FAQ](referencias/preguntas-frecuentes.md) | [Glosario](referencias/glosario-tecnico.md)
 
