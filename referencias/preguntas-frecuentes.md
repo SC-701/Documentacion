@@ -1,5 +1,9 @@
 # ❓ Preguntas Frecuentes (FAQ)
 
+📁 [Documentación](../README.md) / 📁 [Referencias](README.md) / **FAQ**
+
+---
+
 Respuestas ágiles a dudas comunes durante el curso.
 
 ---

@@ -1,5 +1,9 @@
 # 📚 Glosario Técnico
 
+📁 [Documentación](../README.md) / 📁 [Referencias](README.md) / **Glosario Técnico**
+
+---
+
 Términos técnicos en español e inglés, con definiciones claras y ejemplos.
 
 ---

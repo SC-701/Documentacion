@@ -1,5 +1,9 @@
 # ✅ Checklist Semanal del Curso
 
+📁 [Documentación](../README.md) / 📁 [Referencias](README.md) / **Checklist Semanal**
+
+---
+
 Hitos verificables por semana de progresión.
 
 ---
