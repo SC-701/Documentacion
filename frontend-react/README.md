@@ -1,5 +1,7 @@
 # ⚛️ Frontend React — Clean Architecture
+📁 [Documentación](../README.md) / 📁 **Frontend React**
 
+---
 Estructura y patrones de **Vehiculo.React** en React 19 + TypeScript + Vite.
 
 ---

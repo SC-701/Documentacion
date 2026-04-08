@@ -1,5 +1,9 @@
 # 📚 Ejemplos — Casos de uso paso a paso
 
+📁 [Documentación](../README.md) / 📁 **Ejemplos**
+
+---
+
 Guías prácticas con código completo para tareas comunes.
 
 ---

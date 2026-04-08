@@ -1,5 +1,9 @@
 # ☁️ Despliegue — Azure, CI/CD, GitHub Actions
 
+📁 [Documentación](../README.md) / 📁 **Despliegue**
+
+---
+
 Cómo publicar los 3 proyectos en Azure usando GitHub Actions.
 
 ---

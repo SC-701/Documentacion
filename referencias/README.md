@@ -1,5 +1,9 @@
 # 📖 Referencias — Convenciones y Enlaces
 
+📁 [Documentación](../README.md) / 📁 **Referencias**
+
+---
+
 Directorio de convenciones, links útiles y recursos externos.
 
 ---

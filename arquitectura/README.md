@@ -1,5 +1,9 @@
 # 🏗️ Arquitectura del Sistema
 
+📁 [Documentación](../README.md) / 📁 **Arquitectura**
+
+---
+
 Cómo se estructura el sistema completo de gestión de vehículos: API, Web, React, bases de datos.
 
 ---
