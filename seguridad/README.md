@@ -1,5 +1,9 @@
 # 🔐 Seguridad — Autenticación, JWT y Autorización
 
+📁 [Documentación](../README.md) / 📁 **Seguridad**
+
+---
+
 Toda la documentación sobre autenticación, autorización, criptografía y seguridad en el curso.
 
 ---

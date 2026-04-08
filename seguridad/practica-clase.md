@@ -1,5 +1,9 @@
 # 🔐 Práctica en Clase 07 — Autenticación y Autorización
 
+📁 [Documentación](../README.md) / 📁 [Seguridad](README.md)
+
+---
+
 Diagramas, código y comparaciones de todos los cambios del sistema.
 
 ---

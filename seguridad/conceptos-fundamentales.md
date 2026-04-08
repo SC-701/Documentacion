@@ -1,5 +1,9 @@
 # 🛡️ Conceptos Fundamentales de Seguridad
 
+📁 [Documentación](../README.md) / 📁 [Seguridad](README.md)
+
+---
+
 ## Autenticación, JWT, Hash y Middleware explicados
 
 > **Para quién es este documento:** Estudiantes que quieren entender el **por qué** y el **cómo** detrás del código de seguridad implementado en la Semana 06.

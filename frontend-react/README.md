@@ -17,23 +17,28 @@ Estructura y patrones de **Vehiculo.React** en React 19 + TypeScript + Vite.
 
 ## 🏗️ Las 4 capas
 
-```
-┌─────────────────────────────────────────┐
-│ presentation/                           │
-│ ├── pages/         ← Route components  │
-│ ├── components/    ← Reusables        │
-│ └── hooks/         ← Custom hooks     │
-├─────────────────────────────────────────┤
-│ application/                            │
-│ └── usecases/      ← Business logic    │
-├─────────────────────────────────────────┤
-│ data/                                   │
-│ ├── repositories/  ← Interfaces        │
-│ └── http/          ← HTTP client       │
-├─────────────────────────────────────────┤
-│ domain/                                 │
-│ └── models/        ← TypeScript types   │
-└─────────────────────────────────────────┘
+```mermaid
+graph TD
+    A["UI - Presentation Layer<br/>pages/ • components/ • hooks/"]
+    B["Application Layer<br/>usecases/"]
+    C["Data Layer<br/>repositories/ • http/"]
+    D["Domain Layer<br/>models/ • interfaces/"]
+    
+    A --> B
+    B --> C
+    C --> D
+    
+    E["🖥️ User Interaction"]
+    E --> A
+    
+    C --> F["📡 API Backend"]
+    
+    style A fill:#e1f5ff
+    style B fill:#fff3e0
+    style C fill:#f3e5f5
+    style D fill:#e8f5e9
+    style E fill:#fff9c4
+    style F fill:#e8f5e9
 ```
 
 ---

@@ -31,28 +31,23 @@ Visión holística de los 3 componentes principales.
 
 ## 📊 Diagrama general
 
-```
-┌─────────────────── FRONTS ────────────────────┐
-│  React (SPA) │ Razor Pages (MPA) │ Mobile     │
-└────────────────────┬──────────────────────────┘
-                     │ HTTP/REST/JSON
-                     ▼
-┌────────────────────────────────────────────────┐
-│        VEHICULO.API (Backend)                  │
-│  Controllers → Flujo → Reglas/Servicios → DA  │
-└────────────────────┬──────────────────────────┘
-                     │ SQL/Dapper
-                     ▼
-              ┌──────────────┐
-              │ SQL Server   │
-              │ (BD Datos)   │
-              └──────────────┘
-                     +
-              ┌──────────────┐
-              │ External     │
-              │ APIs         │
-              │ (Servicios)  │
-              └──────────────┘
+```mermaid
+graph TD
+    A["🖥️ React SPA"] --> API
+    B["🌐 Razor Pages"] --> API
+    C["📱 Mobile"] --> API
+    
+    API["⚙️ VEHICULO.API<br/>Controllers → Flujo → Reglas → DA"]
+    
+    API --> D["🗄️ SQL Server<br/>Base de Datos"]
+    API --> E["🌍 APIs Externas<br/>Revision, Registro"]
+    
+    style A fill:#e1f5ff
+    style B fill:#e1f5ff
+    style C fill:#e1f5ff
+    style API fill:#fff3e0
+    style D fill:#f3e5f5
+    style E fill:#f3e5f5
 ```
 
 ---

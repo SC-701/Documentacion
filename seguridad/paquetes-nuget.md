@@ -1,5 +1,9 @@
 # 📦 Publicar paquetes NuGet en GitHub Packages
 
+📁 [Documentación](../README.md) / 📁 [Seguridad](README.md)
+
+---
+
 > **Para quién es esta guía:** Quién mantiene o modifica el proyecto `Autorizacion.*` y necesita publicar una nueva versión.
 
 ---

@@ -19,20 +19,22 @@ Esta sección documenta cada una de las 6 capas del API:
 
 ## 🏗️ Flujo de dependencias
 
-```
-Controllers
-    ↓
-Flujo (orquestación)
-    ↓
-┌─────────┴──────────┐
-│                    │
-Reglas          DA (Data Access)
-│                    │
-└─────────┬──────────┘
-          ↓
-      Servicios (HTTP)
-          ↓
-   APIs Externas
+```mermaid
+graph TD
+    A["Controllers<br/>HTTP REST"] --> B["Flujo<br/>Orquestación"]
+    B --> C["Reglas<br/>Validaciones"]
+    B --> D["DA<br/>Dapper"]
+    C --> E["Servicios<br/>HTTP Client"]
+    D --> F["SQL Server<br/>Base Datos"]
+    E --> G["APIs Externas"]
+    
+    style A fill:#fff3e0
+    style B fill:#fff3e0
+    style C fill:#f3e5f5
+    style D fill:#f3e5f5
+    style E fill:#e1f5ff
+    style F fill:#f3e5f5
+    style G fill:#e1f5ff
 ```
 
 ---

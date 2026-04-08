@@ -1,5 +1,9 @@
 # 🔐 Guía de Migración: De sin seguridad → con seguridad
 
+📁 [Documentación](../README.md) / 📁 [Seguridad](README.md)
+
+---
+
 > **Para quién es esta guía:** Estudiantes que ya tienen el código de la Semana 05 funcionando y quieren agregar autenticación.
 
 Referencia completa disponible en: `/2026C01/CodigoBase/Semana 06-API y WEB con Seguridad`
